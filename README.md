@@ -1,5 +1,3 @@
-<img src="AirbnbMunich.png" width="400">
-
 ### AirbnbDashboard
 In this personal project, I utilized data on the Munich Airbnb rental market to create a Tableau dashboard.
 ### Project Objective
@@ -16,3 +14,4 @@ The following are the key insights drawn from the data (note that listings with 
 The data is provided by the investigatory website [Inside Airbnb](http://insideairbnb.com). The Munich data used in the analysis was collected on 22 September, 2023.
 ### Tableau Link
 [Here](https://public.tableau.com/app/profile/yan.peng5682/viz/AirbnbMunichAnalysis/AirbnbMunichAnalysis) is the link to the Tableau dashboard.
+<img src="Dashboard.png" width="400">
