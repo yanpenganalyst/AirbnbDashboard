@@ -1,4 +1,4 @@
-<img src="AirbnbMunich.png" width="600">
+<img src="AirbnbMunich.png" width="300">
 
 ### AirbnbDashboard
 In this personal project, I utilized data on the Munich Airbnb rental market to create a Tableau dashboard.
